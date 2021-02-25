@@ -61,7 +61,7 @@ imports {
 
 ----------------------------------------
 ### The item block
-**_TODO: explain the item block, the various types of items and valid property differences between types._**
+**_TODO: Explain the item block, the various types of items and valid property differences between types._**
 
 ----------------------------------------
 ### The recipe block
